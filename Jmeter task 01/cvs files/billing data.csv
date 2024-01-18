@@ -1,0 +1,6 @@
+﻿company,name,address,postalCode,city,country,state,phone,email,comment
+test company 1,test name 1,test address 1,test postal code 1,test city 1,ES,ES_MA,345111111111,testemail1@mail.com,comment 1
+test company 2,test name 2,test address 2,test postal code 2,test city 2,NL,NL_BQ1,345222222222,testemail2@mail.com,comment 2
+test company 3,test name 3,test address 3,test postal code 3,test city 3,ES,ES_A,345333333333,testemail3@mail.com,comment 3
+test company 4,test name 4,test address 4,test postal code 4,test city 4,IT,IT_AG,345444444444,testemail4@mail.com,comment 4
+test company 5,test name 5,test address 5,test postal code 5,test city 5,IT,IT_BG,345555555555,testemail5@mail.com,comment 5
