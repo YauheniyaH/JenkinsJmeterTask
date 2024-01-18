@@ -18,7 +18,7 @@ node {
 
  stage('run test'){
 
-  sh "rmdir /tmp/reports"
+  sh "rm -rf /tmp/reports"
   sh "mkdir /tmp/reports"
 
  sh "cd /Users/Yauheniya_Hladkaya/Trainings/apache-jmeter-5.6.2/bin"
